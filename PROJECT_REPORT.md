@@ -3,9 +3,11 @@
 **Course:** CSE1021 - Introduction to Problem Solving and Programming / VITyarthi Python Essentials  
 **Project type:** Python Essentials course project  
 **Domain:** Service operations, waiting-time reduction and resource allocation  
-**Registration No.:** 26MIM10163
-**Faculty:** A.Sirajudeen
-**Submission Date:** 30/October/2026
+**Author:** __________________________  
+**Registration No.:** __________________________  
+**Section:** __________________________  
+**Faculty:** __________________________  
+**Submission Date:** __________________________
 
 ---
 

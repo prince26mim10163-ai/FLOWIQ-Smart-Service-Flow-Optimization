@@ -1,9 +1,16 @@
 """FLOWIQ - Standalone single-file version.
 
-Run with: python FLOWIQ.py  ,, 
+Run with: python FLOWIQ.py
+"""
 
-if in starting u got somewhere error then first u have to 
-  install numpy - "pip install numpy"
+"""Core object-oriented models for FLOWIQ.
+
+Designed for the VITyarthi Python Essentials syllabus:
+- classes and constructors
+- inheritance and method overriding
+- encapsulation with private attributes
+- classmethod and staticmethod
+- lists, tuples and dictionaries
 """
 
 
